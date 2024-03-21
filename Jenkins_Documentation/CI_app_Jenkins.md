@@ -29,6 +29,6 @@
    
    ![alt text](<Screenshot 2024-03-20 at 17.38.19-1.png>)
    
-21. Add build steps required (in our case the cd and comands to run the app)
+21. Add build steps required (in our case the cd and comands to install/test)
 22. Click save.
 23. To test, go to a file you want to make a change to, make the change and push it to your Github repo, you should then see your change visible in the repo but also should see that it has been successful in the build history because it would have turned blue with a sun emoticon next to it. 
