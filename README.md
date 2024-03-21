@@ -1,4 +1,4 @@
-# CI/CD 
+# CI/CD Pipeline
 
 ### What is CI?
 
